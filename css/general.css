@@ -1,4 +1,3 @@
-
 /*
 --- 01 TYPOGRAPHY SYSTEM
 
@@ -90,7 +89,8 @@ body {
 
 .grid {
   display: grid;
-  column-gap: 6.4rem;
+  -moz-column-gap: 6.4rem;
+       column-gap: 6.4rem;
   row-gap: 9.6rem;
 
   /* margin-bottom: 9.6rem; */
